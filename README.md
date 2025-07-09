@@ -42,7 +42,7 @@ cypress-beginner-tests/
 
 ```bash
 # Clone the repo
-$ git clone https://github.com/your-username/cypress-beginner-tests.git
+$ git clone https://github.com/prince0710/Cypress_Project.git
 
 # Install dependencies
 $ cd cypress-beginner-tests
@@ -69,10 +69,4 @@ npx cypress open
 
 ---
 
-## 🤝 Contributing
 
-Pull requests are welcome! Please make sure to follow Cypress best practices and write clean, maintainable test cases.
-
----
-
-##
